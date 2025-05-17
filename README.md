@@ -1,6 +1,6 @@
-# Economizafy 💰
+# Economizafy
 
-<img src="assets/images/icon.png" width="200" align="right">
+<img src="assets/images/icon.png" width="100" align="right">
 
 Seu aliado inteligente para economizar e alcançar objetivos financeiros! Um aplicativo desenvolvido em Flutter para ajudar você a criar cronogramas de economia personalizados.
 
