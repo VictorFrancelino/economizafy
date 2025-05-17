@@ -1,16 +1,12 @@
-# Economizafy
+# Economizafy 💰
 
-A new Flutter project.
+<img src="assets/images/icon.png" width="200" align="right">
 
-## Getting Started
+Seu aliado inteligente para economizar e alcançar objetivos financeiros! Um aplicativo desenvolvido em Flutter para ajudar você a criar cronogramas de economia personalizados.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Funcionalidades
+- **Definir metas** com valores e prazos específicos
+- **Acompanhamento visual** do progresso de economia
+- **Lembretes inteligentes** para manter o foco
+- **Dicas personalizadas** para otimizar seus gastos
+- Suporte a múltiplos objetivos simultâneos
