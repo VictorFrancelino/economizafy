@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777793834772",
+    "project_id": "economizafy",
+    "storage_bucket": "economizafy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777793834772:android:cd4a29f360bc698d0afc01",
+        "android_client_info": {
+          "package_name": "com.example.economizafy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7FfHRbBSwEDEph5kpwdn8Z4qAEbHzJ_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
